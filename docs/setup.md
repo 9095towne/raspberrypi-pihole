@@ -23,4 +23,5 @@
 - Sky router blocks DNS changes
 - GL-AX1800 ordered to work around this
 - Goal: Full network-level ad blocking
+![Pi-hole Network Diagram](./images/RaspberryPiHole.drawio.png)
 
